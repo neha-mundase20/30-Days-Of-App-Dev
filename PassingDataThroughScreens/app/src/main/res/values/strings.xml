@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PassingDataThroughScreens</string>
+    <string name="enter_order1">Enter order1:</string>
+    <string name="enter_order2">Enter order2:</string>
+    <string name="enter_order3">Enter order3:</string>
+    <string name="enter_order4">Enter order4:</string>
+    <string name="here_s_your_order_preview">Here\'s your Order Preview:</string>
+</resources>
